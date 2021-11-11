@@ -1,0 +1,11 @@
+{
+    "dockerFile": "./Dockerfile",
+    "extensions": [
+        "ms-dotnettools.csharp",
+        "julialang.language-julia",
+        "quantum.quantum-devkit-vscode"
+    ],
+    "containerEnv": {
+        "IN_DEVCONTAINER": "true"
+    }
+}
