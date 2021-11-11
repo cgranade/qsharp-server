@@ -9,8 +9,8 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="Microsoft.Quantum.IQSharp.Core" Version="0.18.2108160999" />
-    <PackageReference Include="Microsoft.Quantum.IQSharp.Jupyter" Version="0.18.2108160999" />
+    <PackageReference Include="Microsoft.Quantum.IQSharp.Core" Version="0.20.2110171573" />
+    <PackageReference Include="Microsoft.Quantum.IQSharp.Jupyter" Version="0.20.2110171573" />
     <PackageReference Include="Serilog.Extensions.Logging.File" Version="2.0.0" />
     <PackageReference Include="System.CommandLine" Version="2.0.0-beta1.21308.1" />
   </ItemGroup>
